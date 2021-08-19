@@ -1,1 +1,1 @@
-![ER Diaram](/Diagram_0.png)
+![ER Diaram](/lesson2/Diagram_0.png)
